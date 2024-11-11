@@ -1,10 +1,20 @@
-## Hi there 👋 My name is Polina
+## Hi there 👋 My name is Polina ##
 
 🌱 I’m Data Analyst
 
 👯 2024: I'm a graduate of Practikum by Yandex
 
 ⚡ Interesting fact: I was working technological engineer in 8 years, but now I'm loving Data Analyst!
+
+### Languages and Tools ###
+* Python
+* Jupiter Notebook
+* SQL
+* Tableau
+* A/B testing
+* Matplotlib
+* Seaborn
+* Plotly
 
 <!--
 **poly156/poly156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
