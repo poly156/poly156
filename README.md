@@ -4,7 +4,7 @@
 
 👯 2024: I'm a graduate of Practikum by Yandex
 
-⚡ Interesting fact: I was working technological engineer in 8 years, but now I'm loving Data Analyst!
+⚡ Interesting fact: I was working technological engineer in 8 years, but now I'm loving Data Analyse!
 
 ### Languages and Tools ###
 * Python
